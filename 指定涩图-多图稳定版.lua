@@ -6,7 +6,7 @@ Info.description="试着向机器人发送涩图帮助"
 
 Event.onLoad = function(bot)
 	print("载入涩图bot"..bot:getId().."成功")
-	_apikey = "868596775f450d999b3ac6"    --请在""中输入apikey
+	_apikey = "114514"    --请在""中输入apikey
 	setu_on = 1 --new
 	blr = {10086}
 	r18 = 0
